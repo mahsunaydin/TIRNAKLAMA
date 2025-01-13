@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIRNAKLAMA", "TIRNAKLAMA\TIRNAKLAMA.csproj", "{03A06E7C-546F-404C-B807-C8F124342092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A06E7C-546F-404C-B807-C8F124342092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A06E7C-546F-404C-B807-C8F124342092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A06E7C-546F-404C-B807-C8F124342092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A06E7C-546F-404C-B807-C8F124342092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B657A4-50E3-4FD3-9597-D8B566D29348}
+	EndGlobalSection
+EndGlobal
